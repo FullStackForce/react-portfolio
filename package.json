@@ -14,15 +14,10 @@
     "react-scripts": "3.4.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "lite-server": "lite-server",
     "build": "react-scripts build",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
-  "engines": {
-    "node": "12.16.x",
-    "npm": "6.x"
   },
   "eslintConfig": {
     "extends": "react-app"
