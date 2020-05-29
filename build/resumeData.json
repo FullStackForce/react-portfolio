@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name":"Manuel Ramirez",
+    "occupation":"Full Stack Web Developer",
+    "description":"I am a full time geek, in love with code and technology.",
+    "image":"profile.jpg",
+    "bio":"A passionate Full Stack Web Developer with a willingness to learn new skills, leadership and team management, research and analytical skills, getting along with and working well with other people, being reliable and dependable, team-working, personal motivation, organisation and time management, communication skills, problem-solving and decision-making, bilingual, fluent in spanish and english",
+    "contactmessage":"For have any questions or proposal, I will be happy to answer you as soon as possible.",
+    "email": "manuelramirez81@gmail.com",
+    "phone": "321-210-2710",
+    "address":{
+      "city":"Oldando",
+      "state":"FL",
+      "zip": "32828"
+    },
+    "website": "https://manuelramirez.herokuapp.com/",
+    "resumedownload":"https://manuelramirez.herokuapp.com/",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/therockstack/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/FullStackForce",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Since 2004 I am working with HTML, CSS and PHP",
+    "education":[
+      {
+        "school":"UCF - University Of Central Florida, Orlando, FL",
+        "degree":"Full Stack Web Developer",
+        "graduated":"June 2020",
+        "description":"A 24-week intensive program focused on gaining technical programming skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express, Handelbars.js & ReactJS."
+      },
+      {
+        "school":" Antonio Jose de Sucre Institute, Country - Venezuela",
+        "degree":"IT Computer Science",
+        "graduated":"July 2003",
+        "description":"Maintaining computer systems, troubleshooting errors, maintaining internet connectivity, running diagnostic tests, maintaining servers, repairing computer hardware, and providing technical support."
+      }
+    ],
+    "work":[
+      {
+        "company":"Freelance",
+        "title":"Full Stack Web Developer",
+        "years":"March 2004 - Present",
+        "description":"Front-End, Back-End, NodeJS, ReactJS, MySQL, mongoDB, HTML, CSS, JS, PHP, Wordpress."
+      },
+      {
+        "company":"La Rosa Realty Premier, LLC",
+        "title":"Web Developer & Marketing http://lrrpremier.com/",
+        "years":"April 2019 - Present",
+        "description":"Create the web from scratch with wordpress, theme, plugins, web and server general maintenance for optimization and security, in charge of creating marketing content, social network strategy."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"JS",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"85%"
+      },
+      {
+        "name":"MySql",
+        "level":"70%"
+      },
+      {
+        "name":"PHP",
+        "level":"75%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"DomainingMarket.com",
+        "category":"Premium Domain Marketplace, create with Laravel PHP framework, paypal and Strep",
+        "image":"domainingmarket.png",
+        "url":"https://domainingmarket.com/"
+      },
+      {
+        "title":"La Rosa Realty Premier",
+        "category":"Real Estate Company, create with Wordpress",
+        "image":"lrrpremier.png",
+        "url":"http://lrrpremier.com/"
+      },
+      {
+        "title":"stackchat App",
+        "category":"Chat application with node, socket.io, Tailwind, MySql",
+        "image":"stackchat.png",
+        "url":"https://ucfstackchat.herokuapp.com/"
+      },
+      {
+        "title":"Eat Da Burger App",
+        "category":"Eat Da Burger logger with MySQL, Node, Express, and Handlebars. Node and MySQL to query and route data, and Handlebars to generate HTML.",
+        "image":"burger.png",
+        "url":"https://manny-burger.herokuapp.com/"
+      },
+      {
+        "title":"hashtrack",
+        "category":"with this app it is possible to search hashtags from twitter and at the same time show top trending hashtags, and topics per location.",
+        "image":"hashtrack.png",
+        "url":"https://socialtracker.herokuapp.com"
+      },
+      {
+        "title":"Reverse Engineering",
+        "category":"This app allows users to create an account, log into the account and sign back out securely. all user data is stored in a mysql database.",
+        "image":"reverse.png",
+        "url":"https://manny-engineering.herokuapp.com/"
+      },
+      {
+        "title":"README.md Generator",
+        "category":"​Generate README.md file for github.",
+        "image":"readme.png",
+        "url":"https://github.com/FullStackForce/readme-generator"
+      },
+      {
+        "title":"Employee Tracker",
+        "category":"​Node Command Line Interface tool, Manage Employee App.",
+        "image":"employee.png",
+        "url":"https://github.com/FullStackForce/Employee-Tracker"
+      }
+    ]
+  }
+}
