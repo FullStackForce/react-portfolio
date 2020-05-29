@@ -21,7 +21,7 @@
     "eject": "react-scripts eject"
   },
   "engines": {
-    "node": "0.12.x",
+    "node": "12.16.x",
     "npm": "6.x"
   },
   "eslintConfig": {
