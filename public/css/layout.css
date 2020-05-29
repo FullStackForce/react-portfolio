@@ -881,7 +881,7 @@ ul#nav li.current a {
 #contact input:focus,
 #contact textarea:focus,
 #contact select:focus {
-	color: #fff;
+	color: #373233;
 	background-color: #fff;
 }
 
