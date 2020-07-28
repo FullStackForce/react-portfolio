@@ -8,6 +8,11 @@ class Header extends Component {
        var profilepic= "images/"+this.props.data.image;
        var occupation= this.props.data.occupation;
        var resumeDownload = this.props.data.resumedownload;
+       var city = this.props.data.address.city;
+      var state = this.props.data.address.state;
+      var zip = this.props.data.address.zip;
+      var phone= this.props.data.phone;
+      var email = this.props.data.email;
        var networks= this.props.data.social.map(function(network){
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
       })
@@ -35,10 +40,16 @@ class Header extends Component {
              <img className="profile-top three"  src={profilepic} alt="Manuel Ramirez" />
             <h1 className="responsive-headline">{name}</h1>
             <h3><span>{occupation}</span></h3>
-                <hr />
+                  <p className="address">
+                  <h4><span>
+						         {city} {state}, {zip}
+                   </span></h4>
+                   <h4><span>{phone}</span></h4>
+                   <h4><span>{email}</span></h4>
+					   </p>
                 <div className="download">
                   <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i> Download Resume</a>
                   </p>
                </div>
             <ul className="social">
