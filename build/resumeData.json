@@ -3,8 +3,8 @@
     "name":"Manuel Ramirez",
     "occupation":"Full Stack Web Developer",
     "description":"I am a full time geek, in love with code and technology.",
-    "image":"profile.jpg",
-    "bio":"A passionate Full Stack Web Developer with a willingness to learn new skills, leadership and team management, research and analytical skills, getting along with and working well with other people, being reliable and dependable, team-working, personal motivation, organisation and time management, communication skills, problem-solving and decision-making, bilingual, fluent in spanish and english",
+    "image":"profile.png",
+    "bio":"Innovative Full Stack Web Developer with a natural knack for combining technical know-how with creative elements. Well-versed in HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node, MySQL, MongoDB, Express, Handelbars.js & ReactJS. A lifelong learner and a firm believer that education should never stop. Always expanding knowledge and experience by keeping abreast of the evolving trends, techniques, and technologies to streamline efficiency. 9 years demonstrated experience working as freelance challenging myself with new code languages. Earned a bachelor's degree in Information Technology and currently pursuing a Certificate in Full Stack Web Developer at University of Central Florida. Proven ability in optimizing web functionalities that improve data retrieval and workflow efficiencies. Equipped with skills needed to create products that bring joy to the lives of the users while helping the company to achieve its goals. Bilingual, fluent in Spanish and English.",
     "contactmessage":"For have any questions or proposal, I will be happy to answer you as soon as possible.",
     "email": "manuelramirez81@gmail.com",
     "phone": "321-210-2710",
@@ -13,8 +13,8 @@
       "state":"FL",
       "zip": "32828"
     },
-    "website": "https://manuelramirez.herokuapp.com/",
-    "resumedownload":"https://manuelramirez.herokuapp.com/",
+    "website": "https://manuelramirez.now.sh/",
+    "resumedownload":"Manuel-Ramirez-Resume.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -38,24 +38,24 @@
         "description":"A 24-week intensive program focused on gaining technical programming skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express, Handelbars.js & ReactJS."
       },
       {
-        "school":" Antonio Jose de Sucre Institute, Country - Venezuela",
-        "degree":"IT Computer Science",
+        "school":" Universidad Politécnica Experimental Antonio Jose de Sucre - Venezuela",
+        "degree":"IT Information Technology",
         "graduated":"July 2003",
-        "description":"Maintaining computer systems, troubleshooting errors, maintaining internet connectivity, running diagnostic tests, maintaining servers, repairing computer hardware, and providing technical support."
+        "description":"Computer Processing Systems/Computer Software."
       }
     ],
     "work":[
       {
-        "company":"Freelance",
-        "title":"Full Stack Web Developer",
-        "years":"March 2004 - Present",
-        "description":"Front-End, Back-End, NodeJS, ReactJS, MySQL, mongoDB, HTML, CSS, JS, PHP, Wordpress."
+        "company":"Blue Stone Real Estate, Orlando, FL",
+        "title":"Web Developer & Marketing",
+        "years":"From  December 2019 - Present",
+        "description":"Developed social media marketing campaigns including Facebook and Instagram increasing clients by 32%. Responsible for all Technical support from website development, hosting and domain name settings. In charge of graphic design advertisement. Assist in technology coaching for new agents to promote the company in a broader way."
       },
       {
         "company":"La Rosa Realty Premier, LLC",
         "title":"Web Developer & Marketing http://lrrpremier.com/",
         "years":"April 2019 - Present",
-        "description":"Create the web from scratch with wordpress, theme, plugins, web and server general maintenance for optimization and security, in charge of creating marketing content, social network strategy."
+        "description":"Created company website. Taking technical ownership for key components and working through functional, performance and scale issues. Promoted company daily thru different social media platforms increasing fluidity of clients. Facilitate new agents with understanding of social media strategies to obtain new clients."
       }
     ],
     "skills":[
@@ -100,6 +100,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"meethub",
+        "category":"meethub - Video call application with react, node, express, Socket.IO, webRTC, mongo, material UI",
+        "image":"meethub.png",
+        "url":"https://ucf-meethub.herokuapp.com/"
+      },
+      {
         "title":"DomainingMarket.com",
         "category":"Premium Domain Marketplace, create with Laravel PHP framework, paypal and Strep",
         "image":"domainingmarket.png",
@@ -139,13 +145,7 @@
         "title":"README.md Generator",
         "category":"​Generate README.md file for github.",
         "image":"readme.png",
-        "url":"https://github.com/FullStackForce/readme-generator"
-      },
-      {
-        "title":"Employee Tracker",
-        "category":"​Node Command Line Interface tool, Manage Employee App.",
-        "image":"employee.png",
-        "url":"https://github.com/FullStackForce/Employee-Tracker"
+        "url":"https://github.com/TheRockStack/readme-generator"
       }
     ]
   }
